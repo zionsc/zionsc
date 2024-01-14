@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LeetCode!**
 
-- 👨‍💻 All of my projects are available at [my Github Repositories](my Github Repositories)
+- 👨‍💻 All of my projects are available at my Github Repositories! (Please email me if you require project examples -- I have made them private!)
 
 - 📫 How to reach me **zionchan@usc.edu**
 
