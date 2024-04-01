@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seeon</h1>
 <h3 align="center">A Computer Science Student @ University of Southern California (USC)</h3>
 
-- 🔭 I’m currently working on **LeetCode!**
+- 🔭 Current Production Engineer Intern @ **Meta**
 
 - 👨‍💻 All of my projects are available at my Github Repositories! (Please email me if you require project examples -- I have made them private!)
 
