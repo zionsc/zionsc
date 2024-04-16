@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seeon</h1>
 <h3 align="center">A Computer Science Student @ University of Southern California (USC)</h3>
 
-- 🔭 Current Production Engineer Intern @ **Meta**
+- 🔭 Current Software Engineer Intern @ **Meta** (Production)
 
 - 👨‍💻 All of my projects are available at my Github Repositories! (Please email me if you require project examples -- I have made them private!)
 
